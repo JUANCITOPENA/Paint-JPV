@@ -4,7 +4,7 @@ colores y tamaños a tu gusto, se hace uso de div, clases, y selectores basicos,
 y funciones, for y arreglos, para sus funcionalidades.
 
 
-!!![](image/screemshof.png)
+!!![](image/screemshof.jpg)
 
 																	
 
