@@ -12,6 +12,8 @@ un detector de eventos de documentos para activar la función draw () cuando se 
 
 4-Un detector de eventos de documentos para activar la función setPosition () (posición actual del touch del Dispositivo) cuando el touch se mueve sobre la función de lienzo.
 
+URL DEL PROYECTO: https://juancitopena.github.io/Paint-JPV/
+
 # De manera similar, también le demos a nuestro usuario varios tamaños que van desde el tamaño 2, hasta el 30, para dibujar, Para recapitular nuestra aplicación debe tener lo siguiente:
 
 1- Herramientas: colores, botones, guardar.
